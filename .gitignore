@@ -1,0 +1,20 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Model weights
+*.pt
+*.onnx
+
+# Output videos
+finaloutput/
+
+# Temporary files
+*.log
+*.tmp
+
+# Windows
+Thumbs.db
+
+# macOS
+.DS_Store
